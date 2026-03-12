@@ -1,18 +1,26 @@
 [
-
   {
     "name": "httpbin",
     "address": "https://httpbin.org/status/500",
-    "module": "http_any"
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
   },
   {
     "name": "testapi-free",
     "address": "https://test-api-500.free.beeceptor.com",
-    "module": "http_any"
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
   },
   {
     "name": "googleTest",
     "address": "https://google.com",
-    "module": "http_any"
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
   }
 ]
