@@ -6,7 +6,7 @@
     "module": "http_any"
   },
   {
-    "name": "testapi",
+    "name": "testapi-free",
     "address": "https://test-api-500.free.beeceptor.com",
     "module": "http_any"
   }
