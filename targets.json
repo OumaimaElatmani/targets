@@ -1,0 +1,27 @@
+[
+  {
+    "__address__": "https://mp41d2747ebeb2b2b227.free.beeceptor.com",
+    "module": "http_any",
+    "name": "beeceptor",
+    "group": "external"
+  },
+{
+    "__address__": "http://httpbin.org/status/404",
+    "module": "http_any",
+    "name": "httpbin404",
+    "group": "external"
+  },
+{
+    "__address__": "https://httpbin.org/status/500",
+    "module": "http_any",
+    "name": "httpbin500",
+    "group": "external"
+  },
+{
+    "__address__": "https://httpbin.org/get",
+    "module": "http_any",
+    "name": "httpbin200",
+    "group": "external"
+  }
+]
+
