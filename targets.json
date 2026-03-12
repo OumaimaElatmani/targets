@@ -22,5 +22,13 @@
     "bu": "corporate",
     "env": "prod",
     "project": "plateforme-devops"
+  },
+  {
+    "name": "httpbin",
+    "address": "https://httpbin.org/get",
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
   }
 ]
