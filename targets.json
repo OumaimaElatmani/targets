@@ -24,7 +24,7 @@
     "project": "plateforme-devops"
   },
   {
-    "name": "httpbin",
+    "name": "httpbin200",
     "address": "https://httpbin.org/get",
     "module": "http_any",
     "bu": "corporate",
