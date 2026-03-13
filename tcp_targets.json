@@ -1,0 +1,58 @@
+[
+  {
+    "name": "postgresql-elephantsql",
+    "address": "elephant.db.elephantsql.com:5432",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
+  },
+  {
+    "name": "mysql-db4free",
+    "address": "mysql.db4free.net:3306",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
+  },
+  {
+    "name": "smtp-gmail",
+    "address": "smtp.gmail.com:587",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
+  },
+  {
+    "name": "smtp-outlook",
+    "address": "smtp.office365.com:587",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-devops"
+  },
+  {
+    "name": "dns-google",
+    "address": "8.8.8.8:53",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-test"
+  },
+  {
+    "name": "dns-cloudflare",
+    "address": "1.1.1.1:53",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-test"
+  },
+  {
+    "name": "github-ssh",
+    "address": "github.com:22",
+    "module": "tcp_connect",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-test"
+  }
+]
