@@ -46,7 +46,16 @@
     "bu": "corporate",
     "env": "prod",
     "project": "plateforme-test"
+  },
+  {
+    "name": "promotheus",
+    "address": "https://prometheus.io",
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-test"
   }
+  
   
   
 ]
