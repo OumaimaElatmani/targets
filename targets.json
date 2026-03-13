@@ -38,6 +38,15 @@
     "bu": "corporate",
     "env": "prod",
     "project": "plateforme-test"
+  },
+  {
+    "name": "grafana",
+    "address": "https://grafana.com",
+    "module": "http_any",
+    "bu": "corporate",
+    "env": "prod",
+    "project": "plateforme-test"
   }
+  
   
 ]
